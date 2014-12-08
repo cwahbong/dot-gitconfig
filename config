@@ -1,0 +1,12 @@
+[alias]
+	tree = log --graph --decorate --oneline
+	graph = log --all --graph --decorate --oneline
+[as "cwahbong"]
+	name = cwahbong
+	email = cw.ahbong@gmail.com
+[color]
+	ui = true
+[core]
+	editor = vim
+[push]
+	default = simple
