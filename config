@@ -1,7 +1,10 @@
 [alias]
 	tree = log --graph --decorate --oneline
 	graph = log --all --graph --decorate --oneline
-[as "cwahbong"]
+[as]
+	key = user.name
+	key = user.email
+[as "preset.cwahbong.user"]
 	name = cwahbong
 	email = cw.ahbong@gmail.com
 [color]
