@@ -6,8 +6,6 @@
 	email = cw.ahbong@gmail.com
 [color]
 	ui = true
-[core]
-	editor = vim
 [merge]
 	tool = vimdiff
 [mergetool]
